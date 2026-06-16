@@ -1,5 +1,18 @@
 # Calculator
 This is a problem statement for the project Ask AI.
 <br>
-I have only done the frontend designing using html and css. 
-I currently learning java script and in the starting phase of it so i didn't add the functions. 
+# Calculator
+
+## Version 1
+Frontend-only implementation using HTML and CSS.
+
+## Version 2
+Functional calculator using HTML, CSS and JavaScript.
+
+Features:
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Empty input validation
+- Division by zero handling
