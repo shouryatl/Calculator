@@ -15,3 +15,6 @@ Features:
 - Division
 - Empty input validation
 - Division by zero handling
+
+## Version 3
+Improved UI, looks cleaner
