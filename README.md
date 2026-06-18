@@ -1,6 +1,4 @@
 # Calculator
-This is a problem statement for the project Ask AI.
-<br>
 
 ## Version 1
 Frontend-only implementation using HTML and CSS.
